@@ -23,7 +23,7 @@ Este é um sistema de gerenciamento de estoque desenvolvido em Java com Spring. 
 
 ## Como Executar a Aplicação
 
-A aplicação está hospedada no Railway, e você pode consumir os endpoints via Postman, utilizando um token JWT no cabeçalho da requisição.
+A aplicação está hospedada no [Railway](https://inventory-manager-production-f5d9.up.railway.app/swagger-ui/index.html), e você pode consumir os endpoints via Postman, utilizando um token JWT no cabeçalho da requisição.
 
 ### Variáveis de Ambiente
 
